@@ -9,10 +9,10 @@
  参数如下：  
 |  Name | Value  |
 |  --- | --- |
-| ENABLE_UNICOM  | 直接填写 true |
-| UNICOM_APPID  | 填写获取的 appid |
-| UNICOM_USER  | 手机号 |
-| UNICOM_PASSWORD  | 服务密码 |    
+| ENABLE_UNICOM  | true |
+| UNICOM_APPID  | 3f31e4f31439ef1c9288878871f9b2c21e793c771e7c3d666286e1de2b3858fecf5eb0963a6c441edf606e89971d8212896d4d52be36e1ae216766315c1cdff75fd5d78bfeffd6ccf51d6e5711a1e066 |
+| UNICOM_USER  | 17683982235 |
+| UNICOM_PASSWORD  | 123321 |    
 #### 依次添加共四项
 ![image](https://user-images.githubusercontent.com/79479594/109432827-6d05c880-7a50-11eb-8682-50405d7d66dd.png)
 
